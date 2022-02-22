@@ -58,7 +58,7 @@ private void b=1;
 (링크)
 - 방법 1 : <https://github.com/ReBoomLim/>
 - 방법 2 : [방법2 ](https://github.com/ReBoomLim/)
-- 방법 3 : [방법3](https://github.com/ReBoomLim/, "재범 git hub")
+- 방법 3 : [방법3](https://github.com/ReBoomLim/, "ReBoom git hub")
 
 (이미지)
 여기부터는 내일하기
